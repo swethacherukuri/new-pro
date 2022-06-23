@@ -1,1 +1,2 @@
 this is new text file
+ne changes in message
